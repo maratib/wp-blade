@@ -1,0 +1,21 @@
+{
+  "name": "maratib/wp-blade",
+  "description": "WP-Blade",
+  "keywords": [
+    "blade theme",
+    "view",
+    "render"
+  ],
+  "authors": [
+    {
+      "name": "wp-theme",
+      "homepage": "https://wp-theme.github.io/just-blade"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^12.1"
+  },
+  "require": {
+    "maratib/just-blade": "^0.0.7"
+  }
+}

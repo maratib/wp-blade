@@ -1,0 +1,1 @@
+<p1>Comments</p1><?php /**PATH /Users/maratib/iwork/learn/php/wp1/wp-content/themes/wp-blade/views/partials/comments.blade.php ENDPATH**/ ?>
