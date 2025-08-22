@@ -9,7 +9,7 @@
   "authors": [
     {
       "name": "wp-theme",
-      "homepage": "https://wp-theme.github.io/just-blade"
+      "homepage": "https://wp-theme.github.io/wp-blade"
     }
   ],
   "require-dev": {
